@@ -93,6 +93,16 @@ Add the following scripts to your `package.json`:
 You can add other scripts as needed.\
 This allows you to run linting and formatting commands easily.
 
+## 8. Resources & Documentation
+
+For further details on configuring ESLint and Prettier in WebStorm, check out the official documentation:
+
+- [Prettier Configuration in WebStorm](https://prettier.io/docs/webstorm) – Official guide for setting up Prettier in WebStorm.
+- [ESLint Configuration in WebStorm](https://www.jetbrains.com/help/webstorm/linting-typescript.html) – Official guide for enabling and configuring ESLint in WebStorm.
+- [ESLint Official Documentation](https://eslint.org/docs/latest/user-guide/getting-started) – Learn more about ESLint's features and best practices.
+- [Prettier Official Documentation](https://prettier.io/docs/en/index.html) – Complete guide to Prettier and its configuration options.
+
+
 ## Done!
 
 Your WebStorm project is now configured with ESLint and Prettier.
